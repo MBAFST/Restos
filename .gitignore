@@ -212,3 +212,5 @@ Restos.Web/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
 Restos.Web/obj/Debug/Restos.Web.csproj.AssemblyReference.cache
 Restos.Web/Web.Debug.config
 Restos.Web/Web.Release.config
+Restos.Data/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+Restos.Data/Class1.cs
